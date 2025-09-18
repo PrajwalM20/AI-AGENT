@@ -1,5 +1,3 @@
-Here's your full project description beautifully **formatted and organized** for better readability — perfect for a `README.md` file or project documentation:
-
 ---
 
 # 🧠 AI Agent – Voice & GUI Based Assistant
