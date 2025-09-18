@@ -99,9 +99,7 @@ python action.py
 ---
 
 ## 📸 Screenshots
-
-> 💡 *Add a screenshot of your chatbot GUI here:*
-
+> 
 <img width="690" height="886" alt="image" src="https://github.com/user-attachments/assets/16b2171f-0294-4575-a331-25bbd07d9b27" />
 
 
