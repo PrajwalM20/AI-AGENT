@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# macOS-specific
+.DS_Store
+
+# Windows-specific
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Python cache and logs
+*.log
+*.tmp
+
+# Environment variables / API keys
+.env
+*.env
+
+# IDE / Editor settings
+.vscode/
+.idea/
+
+# Jupyter / IPython history
+.ipynb_checkpoints/
+
+# Compiled HTML or scrap files
+*.html
+
+# Images (optional: if not needed in repo)
+images/*.png
+images/*.jpg
+images/*.jpeg
+
+# Optional: ignore your Weather API key if stored elsewhere
+Weather.py
+
+# Ignore personal test files or output
+test_*.py
+output/

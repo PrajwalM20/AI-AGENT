@@ -1,0 +1,13 @@
+✅ Dependencies
+
+speechrecognition
+
+pyttsx3
+
+pyaudio
+
+requests
+
+pillow
+
+pyjokes
