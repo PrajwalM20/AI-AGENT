@@ -103,7 +103,8 @@ python action.py
 
 > 💡 *Add a screenshot of your chatbot GUI here:*
 
-![AI Agent GUI](images/1ef83b4f-e956-4630-b9e4-085ff9fac0f4.png)
+<img width="690" height="886" alt="image" src="https://github.com/user-attachments/assets/16b2171f-0294-4575-a331-25bbd07d9b27" />
+
 
 ---
 
