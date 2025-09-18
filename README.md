@@ -122,6 +122,4 @@ python action.py
 **Prajwal M**
 Built as a Python project combining Speech AI + GUI for a fully interactive assistant experience.
 
----
 
-Let me know if you'd like a downloadable `README.md` file with this content or help with posting it to GitHub!
